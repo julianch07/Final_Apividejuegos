@@ -54,7 +54,7 @@ La API de Tienda de Videojuegos proporciona una solución integral para administ
 - Abre http://localhost:5173 en tu navegador web
 
 ### Uso
-Una vez que hayas configurado e instalado tanto el backend como el frontend, podrás acceder a la aplicación de la tienda de videojuegos a través de http://localhost:3000. Desde allí, podrás explorar los diferentes productos, agregar artículos al carrito de compras, realizar pedidos y gestionar tu perfil de cliente. Además, si tienes los permisos adecuados, podrás administrar los productos, clientes y ventas desde el panel de administración.
+Una vez que hayas configurado e instalado tanto el backend como el frontend, podrás acceder a la aplicación de la tienda de videojuegos a través de http://localhost:5173. Desde allí, podrás explorar los diferentes productos, agregar videojuegos a la lista compras, realizar pedidos y gestionar tu perfil de cliente. 
 
 ## Contribución
 Si deseas contribuir a este proyecto, puedes seguir los siguientes pasos:
