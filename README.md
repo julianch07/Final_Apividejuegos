@@ -16,8 +16,6 @@ La API de Tienda de Videojuegos proporciona una solución integral para administ
 
 - Autenticación y autorización de usuarios
 - Visualización y búsqueda de productos
-- Gestión del carrito de compras
-- Proceso de pago y compra
 - Historial de pedidos del cliente
 - Informes y análisis de ventas
 
